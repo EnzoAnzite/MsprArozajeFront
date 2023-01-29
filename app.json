@@ -2,7 +2,7 @@
   "expo": {
     "owner": "msprarosaje",
     "name": "MsprArozajeFront",
-    "slug": "MsprArozajeFront",
+    "slug": "msprarozajefront",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2212484-1024-4129-b789-73c0fc81c09f"
+      }
     }
   }
 }
